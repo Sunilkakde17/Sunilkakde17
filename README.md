@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sunil+Kakde;AI+%26+Full+Stack+Developer;React+%7C+Node.js+%7C+Flutter+%7C+Python;Building+AI-Powered+Products+at+RGTvertex" alt="Typing SVG" />
@@ -212,4 +212,3 @@ Cross-platform authentication application with Firebase backend and secure user 
 ⭐ If you like my work, consider following my journey and checking out my repositories.
 
 </div>
-```
