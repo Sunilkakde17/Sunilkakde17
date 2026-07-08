@@ -12,22 +12,46 @@
 
 ### 🔍 Quick facts
 
-- 🎓 B.Tech CSE (Data Science), currently interning as a Data Scientist at **ATH Innovations**
+- 🎓 B.Tech CSE (Data Science) graduate
+- 🤖 Completed a Data Science internship at **ATH Innovations**, building **Graphura** end to end
 - 🚀 Co-building **RGTvertex**, an AI-workforce platform — full careers/jobs system, live
-- 💼 Built and shipped **Graphura**, an AI job-scam detector, from backend to a Claude-powered chatbot
-- 🌱 Actively contributing to a **B2B lead-gen product** used by a real startup
+- 💼 Contributing to a **B2B lead-gen product** used by a real startup
 
 ---
 
 ### 🏆 Projects that shipped
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[RGTvertex](https://github.com/Sunilkakde17)** | AI-workforce platform — agents, careers/jobs pipeline, Supabase backend | React, Next.js, Tailwind, Supabase |
-| **[Graphura (ScamShield)](https://github.com/Sunilkakde17)** | Detects fake job/internship listings; user + admin panels, AI chatbot explains the scam score | FastAPI, Supabase, Claude API |
-| **[CardSec](https://github.com/Sunilkakde17)** | Flags fraudulent credit card transactions with a trained classifier | Python, Scikit-learn, Pandas |
-| **[Face Recognition Attendance](https://github.com/Sunilkakde17)** | Marks attendance via live facial recognition | Python, OpenCV, Flask |
-| **[E-Commerce Dashboard](https://github.com/Sunilkakde17)** | Sales + customer insight dashboard for decision-making | Power BI, Pandas |
+**[Graphura](https://github.com/Sunilkakde17)** — AI-powered job & internship scam detector
+
+Built during my internship at ATH Innovations to tackle a real problem: fake job listings that scam students out of money and personal data. Graphura scores any listing for legitimacy and explains *why*.
+
+- FastAPI backend with a Supabase/PostgreSQL database
+- User panel to submit and check listings, admin panel to moderate reports
+- "Job trust" scoring card that flags red flags (fake stipends, upfront fees, vague roles)
+- Comparison mode to check multiple listings side by side
+- Community reporting features so users flag scams for others
+- Claude API-powered chatbot that explains the trust score in plain language
+- Full setup documentation so the project can be deployed by others
+
+**[RGTvertex](https://github.com/Sunilkakde17)** — AI-workforce platform
+
+AI agents, a full careers/jobs pipeline (listings, applications, database schema), Supabase backend.
+`React` `Next.js` `Tailwind` `Supabase`
+
+**[CardSec](https://github.com/Sunilkakde17)** — Credit card fraud detection
+
+Classifier trained to flag fraudulent transactions from transaction data.
+`Python` `Scikit-learn` `Pandas`
+
+**[Face Recognition Attendance](https://github.com/Sunilkakde17)** — Attendance via facial recognition
+
+Live face detection and recognition for automated attendance marking.
+`Python` `OpenCV` `Flask`
+
+**[E-Commerce Dashboard](https://github.com/Sunilkakde17)** — Sales & customer insights
+
+Power BI dashboard built for sales trend and customer behavior analysis.
+`Power BI` `Pandas`
 
 *(Update the links above once repos are renamed/pinned — happy to help with that too.)*
 
@@ -50,6 +74,6 @@
 
 ### 📬 Let's talk
 
-Open to **internship and full-stack/AI engineering roles**. If you're hiring or just want to see a demo of RGTvertex or Graphura, reach out — I'll walk you through it.
+Open to **full-stack and AI engineering roles**. If you're hiring or want a demo of RGTvertex, reach out — I'll walk you through it.
 
 📧 [sunilkakde2004@gmail.com](mailto:sunilkakde2004@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sunil-kakde-95s/) &nbsp;•&nbsp; 🌐 [Portfolio](https://sunilkakdeportfolio.netlify.app/)
