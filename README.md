@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sunil Kakde 👋
-
-**B.Tech CSE (Data Science) student · Full Stack + AI Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F8CFF&height=180&section=header&text=Sunil%20Kakde&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%2B%20AI%20Developer&descAlignY=65&descSize=18" width="100%"/>
 
 [Portfolio](https://sunilkakdeportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/sunil-kakde-95s/) · [Email](mailto:sunilkakde2004@gmail.com)
 
@@ -69,9 +67,17 @@ I lean more full-stack + product-focused day to day, with AI/ML worked in where 
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunilkakde17&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilkakde17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunilkakde17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilkakde17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
+
+<!--
+If these don't render (the vercel.app instance gets rate-limited often):
+1. Edit this file and add/remove a random query param to force GitHub to re-fetch (e.g. &v=2)
+2. Or switch host to https://github-readme-stats-git-masterrstaib.vercel.app (community mirror)
+3. Or check status at https://vercel.com/status before assuming it's your setup
+-->
+
 
 ---
 
