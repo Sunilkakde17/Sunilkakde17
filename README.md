@@ -15,13 +15,13 @@
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-I'm **Sunil Kakde**, an AI-focused Full Stack Developer passionate about building intelligent software that solves real-world problems.
+I'm Sunil Kakde, a Computer Science (Data Science) undergraduate passionate about Artificial Intelligence, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Full Stack Development.
 
-I enjoy creating scalable web applications, AI-powered products, automation tools, and cross-platform mobile apps using modern technologies.
+I enjoy building intelligent systems that combine AI with scalable software engineering to solve real-world business problems. My interests include Generative AI, AI agents, backend development, data-driven applications, and modern web technologies.
 
-Currently, I'm building **RGTvertex**, an AI platform focused on helping businesses automate workflows through intelligent AI agents.
+Currently, I'm developing AI-powered products at RGTvertex while continuously expanding my expertise in LLM applications, vector databases, agentic AI, cloud deployment, and scalable architectures.
 
 ### What I enjoy building
 
