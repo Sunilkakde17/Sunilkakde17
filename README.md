@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F8CFF&height=180&section=header&text=Sunil%20Kakde&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%2B%20AI%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F8CFF&height=180&section=header&text=Sunil%20Kakde&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%2FML%20Developer&descAlignY=65&descSize=17" width="100%"/>
 
-**I build products end-to-end — backend, frontend, and the AI in between.**
+**I build products end-to-end — full-stack engineering, data science, and AI/ML (including CV & NLP) in one pipeline.**
 
 [Portfolio](https://sunilkakdeportfolio.netlify.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/sunil-kakde-95s/) &nbsp;•&nbsp; [Email](mailto:sunilkakde2004@gmail.com)
 
@@ -13,7 +13,8 @@
 ### 🔍 Quick facts
 
 - 🎓 B.Tech CSE (Data Science) graduate
-- 🤖 Completed a Data Science internship at **ATH Innovations**, building **Graphura** end to end
+- 🧠 Comfortable across **Full Stack, Data Science, and AI/ML** — including Deep Learning, Computer Vision, and NLP
+- 🤖 Completed a Data Science internship at **ATH Innovations**, building **Graphura** end to end (FastAPI backend + NLP-driven chatbot)
 - 🚀 Co-building **RGTvertex**, an AI-workforce platform — full careers/jobs system, live
 - 💼 Contributing to a **B2B lead-gen product** used by a real startup
 
@@ -59,7 +60,9 @@ Power BI dashboard built for sales trend and customer behavior analysis.
 
 ### 🛠 Stack
 
-`React` `Next.js` `Node.js` `Python` `FastAPI` `Supabase` `PostgreSQL` `Firebase` `Scikit-learn` `Pandas` `Flutter` `Tailwind CSS`
+**Full Stack:** `React` `Next.js` `Node.js` `Tailwind CSS` `Flutter`
+**Data / Backend:** `Python` `FastAPI` `Supabase` `PostgreSQL` `Firebase`
+**AI/ML:** `Scikit-learn` `Pandas` `OpenCV (Computer Vision)` `NLP` `Deep Learning`
 
 ---
 
@@ -74,6 +77,6 @@ Power BI dashboard built for sales trend and customer behavior analysis.
 
 ### 📬 Let's talk
 
-Open to **full-stack and AI engineering roles**. If you're hiring or want a demo of RGTvertex, reach out — I'll walk you through it.
+Open to **full-stack and AI engineering roles**. If you're hiring or want a demo of RGTvertex or Graphura, reach out — I'll walk you through it.
 
 📧 [sunilkakde2004@gmail.com](mailto:sunilkakde2004@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sunil-kakde-95s/) &nbsp;•&nbsp; 🌐 [Portfolio](https://sunilkakdeportfolio.netlify.app/)
