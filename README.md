@@ -23,7 +23,7 @@ Building production-ready AI applications, intelligent automation systems, and s
 
 ## 🏆 Featured Projects
 
-### 🤖 RGTvertex — AI Workforce Platform *(Co-Founder & Developer)*
+### 🤖 RGTvertex — AI Workforce Platform 
 
 An AI-powered workforce platform designed to help businesses automate operations using multiple intelligent AI agents. I co-build the platform, contributing across frontend, backend, database architecture, authentication, careers portal, and AI integrations while focusing on scalable, production-ready development.
 
