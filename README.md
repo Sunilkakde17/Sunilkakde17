@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Sunil Kakde
 
-<!--
-**Sunilkakde17/Sunilkakde17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (Data Science) student passionate about AI, Full Stack Development, Flutter, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React
+- Node.js
+- JavaScript
+- Python
+- Flutter
+- MongoDB
+- Supabase
+- Firebase
+- Tailwind CSS
+
+### 🌱 Currently Learning
+- AI Agents
+- LangChain
+- Docker
+- AWS
+
+### 📫 Connect with Me
+- LinkedIn: Your LinkedIn URL
+- Email: your@email.com
